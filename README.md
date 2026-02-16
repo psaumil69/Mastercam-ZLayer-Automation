@@ -10,6 +10,7 @@ Download the compiled tool here:
 https://github.com/psaumil69/mastercam-splitlayers-automation/releases/latest
 
 Includes:
+
 • SplitLayers.dll (NET‑Hook)  
 • SplitLayers.ft (function table)  
 • TestFile.mcam (optional sample)
