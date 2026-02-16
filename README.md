@@ -21,7 +21,7 @@ Includes:
 This project is based on a workflow described in my Medium article:  
 https://medium.com/@ps29/automating-z-level-layer-offsets-in-mastercam-a-net-hook-method-that-saved-hours-of-repetitive-wor-b5f3bea5a3ba
 
-The article explains the motivation, the problem solved, and the practical benefits of automating Z-level layer offsets in Mastercam.
+The article explains the motivation, the problem solved, and the practical benefits of automating Z‑level layer offsets in Mastercam.
 
 ---
 
